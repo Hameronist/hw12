@@ -11,7 +11,7 @@ body {
     height: 700px;
 
     background: {
-        image: url(/images/Background.png);
+        image: url(../images/Background.png);
         size: cover;
     }
     
@@ -171,7 +171,7 @@ body {
 
         background: {
             size: auto;
-            image: url(/images/Bitmap.png);
+            image: url(../images/Bitmap.png);
         }
 
     }
@@ -180,7 +180,7 @@ body {
 
         background: {
             size: auto;
-            image: url(/images/Bitmap2.png);
+            image: url(../images/Bitmap2.png);
         }
 
     }
@@ -189,7 +189,7 @@ body {
 
         background: {
             size: auto;
-            image: url(/images/Bitmap3.png);
+            image: url(../images/Bitmap3.png);
         }
 
     }
@@ -333,7 +333,7 @@ body {
                         position: center;
                         repeat: no-repeat;
                         size: 16px;
-                        image: url(/images/music2.png);
+                        image: url(../images/music2.png);
                     }
 
                 }
@@ -344,7 +344,7 @@ body {
                         color: #19D4CA;
                         position: center;
                         repeat: no-repeat;
-                        image: url(/images/Shape.png);
+                        image: url(../images/Shape.png);
                     }
 
                 }
@@ -355,7 +355,7 @@ body {
                         color: #FFA710;
                         position: center;
                         repeat: no-repeat;
-                        image: url(/images/Shape-2.png);
+                        image: url(../images/Shape-2.png);
                     }
 
                 }
@@ -366,7 +366,7 @@ body {
                         color: #667DF3;
                         position: center;
                         repeat: no-repeat;
-                        image: url(/images/Shape-3.png);
+                        image: url(../images/Shape-3.png);
                     }
 
                 }
@@ -387,7 +387,7 @@ body {
 
                 background: {
                     size: cover;
-                    image: url(/images/Bitmap-ones.png);
+                    image: url(../images/Bitmap-ones.png);
                 }
 
             }
@@ -396,7 +396,7 @@ body {
 
                 background: {
                     size: cover;
-                    image: url(/images/Bitmap-twose.png);
+                    image: url(../images/Bitmap-twose.png);
                 }
 
             }
@@ -405,7 +405,7 @@ body {
 
                 background: {
                     size: cover;
-                    image: url(/images/Bitmap-threes.png);
+                    image: url(../images/Bitmap-threes.png);
                 }
 
             }
@@ -414,7 +414,7 @@ body {
 
                 background: {
                     size: cover;
-                    image: url(/images/Bitmap-4.png);
+                    image: url(../images/Bitmap-4.png);
                 }
 
             }
@@ -558,7 +558,7 @@ body {
 
             background: {
                 size: cover;
-                image: url(/images/first.png);
+                image: url(../images/first.png);
             }
 
         }
@@ -567,7 +567,7 @@ body {
 
             background: {
                 size: cover;
-                image: url(/images/second.png);
+                image: url(../images/second.png);
             }
 
         }
@@ -576,7 +576,7 @@ body {
 
             background: {
                 size: cover;
-                image: url(/images/third.png);
+                image: url(../images/third.png);
             }
 
         }
@@ -585,7 +585,7 @@ body {
 
             background: {
                 size: cover;
-                image: url(/images/fourth.png);
+                image: url(../images/fourth.png);
             }
 
         }
@@ -594,7 +594,7 @@ body {
 
             background: {
                 size: cover;
-                image: url(/images/fiveth.png);
+                image: url(../images/fiveth.png);
             }
 
         }
@@ -603,7 +603,7 @@ body {
 
             background: {
                 size: cover;
-                image: url(/images/sixth.png);
+                image: url(../images/sixth.png);
             }
 
         }
@@ -612,7 +612,7 @@ body {
 
             background: {
                 size: cover;
-                image: url(/images/seventh.png);
+                image: url(../images/seventh.png);
             }
 
         }
@@ -789,7 +789,7 @@ body {
     }
 
     .areto {
-        background-image: url(/images/Areto.png);
+        background-image: url(../images/Areto.png);
         width: 110px;
         height: 24px;
     }
@@ -1202,15 +1202,15 @@ body {
             }
 
             .one {
-                background-image: url(/images/Object1.png);
+                background-image: url(../images/Object1.png);
             }
 
             .two {
-                background-image: url(/images/Object2.png);
+                background-image: url(../images/Object2.png);
             }
 
             .three {
-                background-image: url(/images/Object3.png);
+                background-image: url(../images/Object3.png);
             }
 
             .coral-blocks {
@@ -1315,37 +1315,37 @@ body {
 
             .first {
                 background-size: cover;
-                background-image: url(/images/1.png);
+                background-image: url(../images/1.png);
             }
 
             .second {
                 background-size: cover;
-                background-image: url(/images/2.png);
+                background-image: url(../images/2.png);
             }
 
             .third {
                 background-size: cover;
-                background-image: url(/images/3.png);
+                background-image: url(../images/3.png);
             }
 
             .fourth {
                 background-size: cover;
-                background-image: url(/images/4.png);
+                background-image: url(../images/4.png);
             }
 
             .fiveth {
                 background-size: cover;
-                background-image: url(/images/5.png);
+                background-image: url(../images/5.png);
             }
 
             .sixth {
                 background-size: cover;
-                background-image: url(/images/6.png);
+                background-image: url(../images/6.png);
             }
 
             .seventh {
                 background-size: cover;
-                background-image: url(/images/7.png);
+                background-image: url(../images/7.png);
             }
 
         }
