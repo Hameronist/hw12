@@ -56,7 +56,7 @@ body {
   padding-top: 70px;
   width: 100%;
   height: 700px;
-  background-image: url(/images/Background.png);
+  background-image: url(../images/Background.png);
   background-size: cover;
 }
 .welcome-screen header {
@@ -175,15 +175,15 @@ body {
 }
 .second-blocks .one {
   background-size: auto;
-  background-image: url(/images/Bitmap.png);
+  background-image: url(../images/Bitmap.png);
 }
 .second-blocks .two {
   background-size: auto;
-  background-image: url(/images/Bitmap2.png);
+  background-image: url(../images/Bitmap2.png);
 }
 .second-blocks .three {
   background-size: auto;
-  background-image: url(/images/Bitmap3.png);
+  background-image: url(../images/Bitmap3.png);
 }
 .second-blocks .coral-blocks {
   display: flex;
@@ -296,25 +296,25 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 16px;
-  background-image: url(/images/music2.png);
+  background-image: url(../images/music2.png);
 }
 .partners-blocks .people-block .block .big-circle .twose {
   background-color: #19D4CA;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(/images/Shape.png);
+  background-image: url(../images/Shape.png);
 }
 .partners-blocks .people-block .block .big-circle .threese {
   background-color: #FFA710;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(/images/Shape-2.png);
+  background-image: url(../images/Shape-2.png);
 }
 .partners-blocks .people-block .block .big-circle .fourse {
   background-color: #667DF3;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(/images/Shape-3.png);
+  background-image: url(../images/Shape-3.png);
 }
 .partners-blocks .people-block .block .threes {
   height: 140px;
@@ -326,19 +326,19 @@ body {
 }
 .partners-blocks .people-block .block .ones {
   background-size: cover;
-  background-image: url(/images/Bitmap-ones.png);
+  background-image: url(../images/Bitmap-ones.png);
 }
 .partners-blocks .people-block .block .twos {
   background-size: cover;
-  background-image: url(/images/Bitmap-twose.png);
+  background-image: url(../images/Bitmap-twose.png);
 }
 .partners-blocks .people-block .block .threes {
   background-size: cover;
-  background-image: url(/images/Bitmap-threes.png);
+  background-image: url(../images/Bitmap-threes.png);
 }
 .partners-blocks .people-block .block .fours {
   background-size: cover;
-  background-image: url(/images/Bitmap-4.png);
+  background-image: url(../images/Bitmap-4.png);
 }
 .partners-blocks .people-block .block .heder {
   font-family: "Roboto", sans-serif;
@@ -441,31 +441,31 @@ body {
 }
 .activity-blocks .bloks .first {
   background-size: cover;
-  background-image: url(/images/first.png);
+  background-image: url(../images/first.png);
 }
 .activity-blocks .bloks .second {
   background-size: cover;
-  background-image: url(/images/second.png);
+  background-image: url(../images/second.png);
 }
 .activity-blocks .bloks .third {
   background-size: cover;
-  background-image: url(/images/third.png);
+  background-image: url(../images/third.png);
 }
 .activity-blocks .bloks .fourth {
   background-size: cover;
-  background-image: url(/images/fourth.png);
+  background-image: url(..images/fourth.png);
 }
 .activity-blocks .bloks .fiveth {
   background-size: cover;
-  background-image: url(/images/fiveth.png);
+  background-image: url(../images/fiveth.png);
 }
 .activity-blocks .bloks .sixth {
   background-size: cover;
-  background-image: url(/images/sixth.png);
+  background-image: url(../images/sixth.png);
 }
 .activity-blocks .bloks .seventh {
   background-size: cover;
-  background-image: url(/images/seventh.png);
+  background-image: url(../images/seventh.png);
 }
 
 .creating-holiday {
@@ -586,7 +586,7 @@ body {
   letter-spacing: 1px;
 }
 .footer .areto {
-  background-image: url(/images/Areto.png);
+  background-image: url(../images/Areto.png);
   width: 110px;
   height: 24px;
 }
@@ -867,13 +867,13 @@ body {
     height: 240px;
   }
   .second-blocks .collect-blocks .one {
-    background-image: url(/images/Object1.png);
+    background-image: url(../images/Object1.png);
   }
   .second-blocks .collect-blocks .two {
-    background-image: url(/images/Object2.png);
+    background-image: url(../images/Object2.png);
   }
   .second-blocks .collect-blocks .three {
-    background-image: url(/images/Object3.png);
+    background-image: url(../images/Object3.png);
   }
   .second-blocks .collect-blocks .coral-blocks {
     margin-left: 20px;
@@ -956,31 +956,31 @@ body {
   }
   .activity-blocks .bloks .first {
     background-size: cover;
-    background-image: url(/images/1.png);
+    background-image: url(../images/1.png);
   }
   .activity-blocks .bloks .second {
     background-size: cover;
-    background-image: url(/images/2.png);
+    background-image: url(../images/2.png);
   }
   .activity-blocks .bloks .third {
     background-size: cover;
-    background-image: url(/images/3.png);
+    background-image: url(../images/3.png);
   }
   .activity-blocks .bloks .fourth {
     background-size: cover;
-    background-image: url(/images/4.png);
+    background-image: url(../images/4.png);
   }
   .activity-blocks .bloks .fiveth {
     background-size: cover;
-    background-image: url(/images/5.png);
+    background-image: url(../images/5.png);
   }
   .activity-blocks .bloks .sixth {
     background-size: cover;
-    background-image: url(/images/6.png);
+    background-image: url(../images/6.png);
   }
   .activity-blocks .bloks .seventh {
     background-size: cover;
-    background-image: url(/images/7.png);
+    background-image: url(../images/7.png);
   }
   .activity-blocks .anotho {
     height: 220px;
